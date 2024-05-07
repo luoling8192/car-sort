@@ -1,0 +1,26 @@
+{
+  "name": "login-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.21",
+    "vue-i18n": "^9.13.1",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^2.16.0",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "eslint": "^9.1.1",
+    "naive-ui": "^2.38.1",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0",
+    "vue-tsc": "^2.0.6"
+  },
+  "packageManager": "pnpm@9.0.6+sha1.648f6014eb363abb36618f2ba59282a9eeb3e879"
+}
